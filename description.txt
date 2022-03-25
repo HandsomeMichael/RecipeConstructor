@@ -1,1 +1,12 @@
-Recipe Constructor is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+Recipe Constructor is a mod that allows you to add custom recipe through mod config
+
+You can input 3 things in the mod config
+
+the first one is the item requirement
+the second one is the tile requirement
+the last one is the item result
+
+[ Changelog ]
+
+v0.1
+- released
